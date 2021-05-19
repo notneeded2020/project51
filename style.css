@@ -1,0 +1,35 @@
+body{
+    margin:0px;
+    background-color:#d2aedf;
+}
+
+.menu{
+    background-color: #000000d5;
+    display:flex;
+    justify-content:space-between;
+    padding: 10px;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: 200;
+    color: #ffffff;
+}
+.grid{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    margin-left:300px;
+    margin-right:300px
+}
+
+.grid img{
+    border: 2px solid #000000;
+    border-radius: 50px;
+}
+.origami{
+    border-radius: 20px;
+    background-color:#e3cbec;
+    margin:15px;
+    padding: 15px;
+    width: 310px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
